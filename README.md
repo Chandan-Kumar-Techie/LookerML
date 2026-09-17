@@ -1,2 +1,1 @@
-# LookerML
-Data Model about Digital Analytics
+Digital Anlytics Data Model
